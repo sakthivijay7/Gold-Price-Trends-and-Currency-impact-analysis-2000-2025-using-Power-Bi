@@ -11,7 +11,7 @@ It gold price evolved  early year 2015 drop down and pick of the year 2024 over 
 2.Year wise total change price:
 Change total gold price early year 2013 (red) drop down and the year 2024 (green) growing up.
 3.Country wise total gold price:
-It globl gold price and economic weeker countries. The srilanka,Pakistan had econamic weeker 
+It global gold price and economic weeker countries. The srilanka,Pakistan had economic weeker 
 It currecncy value to low then the gold price to high.
 USA had stronger economic country it gold price too low.
  
