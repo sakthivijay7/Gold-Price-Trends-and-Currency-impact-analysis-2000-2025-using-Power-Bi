@@ -1,6 +1,7 @@
 # Gold-Price-Trends-and-Currency-impact-analysis-2000-2025-using-Power-Bi
 ### Date:Apr08 - 2025
-- Dashboard:
+#### - Dashboard:
+
 1.Historical data of global gold (Troy Ounce)price and Impact of multiple countries currency.
 2.Total gold price over the year (2000-2025)
 ![gold](https://github.com/user-attachments/assets/dbf0086c-728f-4499-9eb5-e8b52b872ddc)
